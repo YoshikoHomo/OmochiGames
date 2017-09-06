@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "OmochiGames.data.unityweb",
+"asmCodeUrl": "OmochiGames.asm.code.unityweb",
+"asmMemoryUrl": "OmochiGames.asm.memory.unityweb",
+"asmFrameworkUrl": "OmochiGames.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
